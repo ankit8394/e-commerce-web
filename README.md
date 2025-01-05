@@ -6,8 +6,8 @@ Features
 Responsive design for all devices.
 Interactive animations and hover effects.
 Lightweight and fast-loading website.
-
-Tech Stack
-HTML: Structure
-CSS: Styling
-JavaScript: Interactivity
+<br><br>
+Tech Stack<br>
+HTML: Structure<br>
+CSS: Styling<br>
+JavaScript: Interactivity<br>
