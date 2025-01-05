@@ -1,5 +1,5 @@
 # e-commerce_web
-Aresponsive e-commerce website built with HTML, CSS, and JavaScript to showcase beautiful destinations and tour packages.
+Aresponsive e-commerce website built with HTML, CSS, and JavaScript to showcase the Brand clothings.
 
 Features
 
